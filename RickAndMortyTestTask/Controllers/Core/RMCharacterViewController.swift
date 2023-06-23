@@ -1,10 +1,3 @@
-//
-//  RMCharacterViewController.swift
-//  RickAndMortyTestTask
-//
-//  Created by Анатолий Ге on 21.06.2023.
-//
-
 import UIKit
 
 final class RMCharacterViewController: UIViewController {
