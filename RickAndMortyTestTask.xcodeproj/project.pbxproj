@@ -46,6 +46,7 @@
 		121061E72A4D5A0E00E6966E /* RMCharacterPhotoCollectionViewCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 121061E62A4D5A0E00E6966E /* RMCharacterPhotoCollectionViewCellViewModel.swift */; };
 		121061E92A4D5A1E00E6966E /* RMCharacterInfoCollectionViewCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 121061E82A4D5A1E00E6966E /* RMCharacterInfoCollectionViewCellViewModel.swift */; };
 		121061EB2A4D5A2D00E6966E /* RMCharacterEpisodeCollectionViewCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 121061EA2A4D5A2D00E6966E /* RMCharacterEpisodeCollectionViewCellViewModel.swift */; };
+		121061ED2A51628400E6966E /* RMEpisodeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 121061EC2A51628400E6966E /* RMEpisodeDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -109,6 +110,7 @@
 		121061E62A4D5A0E00E6966E /* RMCharacterPhotoCollectionViewCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterPhotoCollectionViewCellViewModel.swift; sourceTree = "<group>"; };
 		121061E82A4D5A1E00E6966E /* RMCharacterInfoCollectionViewCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterInfoCollectionViewCellViewModel.swift; sourceTree = "<group>"; };
 		121061EA2A4D5A2D00E6966E /* RMCharacterEpisodeCollectionViewCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterEpisodeCollectionViewCellViewModel.swift; sourceTree = "<group>"; };
+		121061EC2A51628400E6966E /* RMEpisodeDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMEpisodeDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -294,6 +296,7 @@
 			isa = PBXGroup;
 			children = (
 				121061D32A482A5E00E6966E /* RMCharacterDetailViewController.swift */,
+				121061EC2A51628400E6966E /* RMEpisodeDetailViewController.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -486,6 +489,7 @@
 				121061D62A482AD800E6966E /* RMCharacterDetailView.swift in Sources */,
 				121061BB2A430DC800E6966E /* RMCharacterStatus.swift in Sources */,
 				121061B52A42FD2500E6966E /* RMSettingsViewController.swift in Sources */,
+				121061ED2A51628400E6966E /* RMEpisodeDetailViewController.swift in Sources */,
 				121061E42A4D591F00E6966E /* RMCharacterEpisodeCollectionViewCell.swift in Sources */,
 				121061732A42EECF00E6966E /* SceneDelegate.swift in Sources */,
 				121061DC2A4C109800E6966E /* RMImageManager.swift in Sources */,
